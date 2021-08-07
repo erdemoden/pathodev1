@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "97-971526_empty-pixel-heart-pink-8-bit-heart-clipart kopyası.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,6 @@
+framework module Pods_pathodev1_pathodev1UITests {
+  umbrella header "Pods-pathodev1-pathodev1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
