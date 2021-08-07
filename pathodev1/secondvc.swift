@@ -24,7 +24,7 @@ class secondvc: UIViewController {
     @IBOutlet weak var actor: UILabel!
     @IBOutlet weak var dateofbirth: UILabel!
     @IBOutlet weak var favorite: UILabel!
-    @IBOutlet weak var heartbut: UIButton!
+    @IBOutlet weak var heartbut: UIButton! 
     
     override func viewDidLoad() {
         super.viewDidLoad()
